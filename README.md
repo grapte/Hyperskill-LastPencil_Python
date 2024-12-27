@@ -1,4 +1,5 @@
-Main file: [Last Pencil (Python)/task/game.py](https://github.com/grapte/Hyperskill-LastPencil_Python/blob/main/Last%20Pencil%20(Python)/task/game.py)
-# Last Pencil
+Last Pencil is a game where you decide who wins. Let a friend or play the game yourself against the computer that always performs the optimal strategy. This game is based off of nim.
 
-CLI program that plays against the player according to optimal strategy based on the winning position. If the computer can win, it uses the optimal strategy against the player to ensure victory.
+Here's the link to the project: https://hyperskill.org/projects/258
+
+Check out my profile: https://hyperskill.org/profile/618051829

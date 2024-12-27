@@ -1,4 +1,3 @@
-import random
 
 print("How many pencils would you like to use:")
 while True:
